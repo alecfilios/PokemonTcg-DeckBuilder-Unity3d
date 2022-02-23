@@ -1,6 +1,6 @@
 # PokemonTcgDeckBuilder
 
-<img src="LoadingScreen"/>
+<img src="LoadingScreen.png"/>
 
 ![image description](relative/path/in/repository/to/image.svg)
 OR
